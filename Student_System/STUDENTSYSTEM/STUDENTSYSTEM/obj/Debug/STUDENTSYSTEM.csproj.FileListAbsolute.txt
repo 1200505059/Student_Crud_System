@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\Student_System\STUDENTSYSTEM\STUDENTSYSTEM\bin\Debug\STUDENTSYSTEM.exe.config
+C:\Users\pc\Desktop\Student_System\STUDENTSYSTEM\STUDENTSYSTEM\bin\Debug\STUDENTSYSTEM.exe
+C:\Users\pc\Desktop\Student_System\STUDENTSYSTEM\STUDENTSYSTEM\bin\Debug\STUDENTSYSTEM.pdb
+C:\Users\pc\Desktop\Student_System\STUDENTSYSTEM\STUDENTSYSTEM\obj\Debug\STUDENTSYSTEM.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Student_System\STUDENTSYSTEM\STUDENTSYSTEM\obj\Debug\STUDENTSYSTEM.Add.resources
+C:\Users\pc\Desktop\Student_System\STUDENTSYSTEM\STUDENTSYSTEM\obj\Debug\STUDENTSYSTEM.Form1.resources
+C:\Users\pc\Desktop\Student_System\STUDENTSYSTEM\STUDENTSYSTEM\obj\Debug\STUDENTSYSTEM.Properties.Resources.resources
+C:\Users\pc\Desktop\Student_System\STUDENTSYSTEM\STUDENTSYSTEM\obj\Debug\STUDENTSYSTEM.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Student_System\STUDENTSYSTEM\STUDENTSYSTEM\obj\Debug\STUDENTSYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Student_System\STUDENTSYSTEM\STUDENTSYSTEM\obj\Debug\STUDENTSYSTEM.exe
+C:\Users\pc\Desktop\Student_System\STUDENTSYSTEM\STUDENTSYSTEM\obj\Debug\STUDENTSYSTEM.pdb
+C:\Users\pc\Desktop\Student_System\STUDENTSYSTEM\STUDENTSYSTEM\obj\Debug\STUDENTSYSTEM.delete.resources
+C:\Users\pc\Desktop\Student_System\STUDENTSYSTEM\STUDENTSYSTEM\obj\Debug\STUDENTSYSTEM.update.resources
+C:\Users\pc\Desktop\Student_System\STUDENTSYSTEM\STUDENTSYSTEM\obj\Debug\STUDENTSYSTEM.list.resources
